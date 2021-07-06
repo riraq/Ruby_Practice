@@ -14,5 +14,5 @@ class ApiConnector
 
 end
 
-api = ApiConnector.new("My title", "My cool description", "next.tech")
+api = ApiConnector.new("Rony Iraq", "Full Stack Web Developer", "https://github.com/riraq")
 api.testing_initializer
